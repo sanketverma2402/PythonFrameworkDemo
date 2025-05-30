@@ -194,3 +194,19 @@
 2025-05-30 20:09:03: ERROR: ----Failed- Act & Exp Title mist-match----
 2025-05-30 20:09:07: INFO: ----test_TC2_verifyProductName-------
 2025-05-30 20:09:07: INFO: ----Passed- Act & Exp product name match----
+2025-05-30 20:22:26: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-30 20:22:26: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-30 20:22:30: INFO: ----test_TC2_verifyProductName-------
+2025-05-30 20:22:30: INFO: ----Passed- Act & Exp product name match----
+2025-05-30 20:26:01: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-30 20:26:02: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-30 20:26:06: INFO: ----test_TC2_verifyProductName-------
+2025-05-30 20:26:08: INFO: ----Passed- Act & Exp product name match----
+2025-05-30 20:30:25: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-30 20:30:26: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-30 20:30:30: INFO: ----test_TC2_verifyProductName-------
+2025-05-30 20:30:32: INFO: ----Passed- Act & Exp product name match----
+2025-05-30 20:33:28: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-30 20:33:28: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-30 20:33:32: INFO: ----test_TC2_verifyProductName-------
+2025-05-30 20:33:35: INFO: ----Passed- Act & Exp product name match----
