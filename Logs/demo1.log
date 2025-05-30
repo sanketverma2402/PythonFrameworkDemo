@@ -174,3 +174,23 @@
 2025-05-30 18:30:58: INFO: ----Passed- Act & Exp Total Product Price matched----
 2025-05-30 18:37:33: INFO: -----test_TC5_verifyTotalProductValue---------
 2025-05-30 18:37:33: INFO: ----Passed- Act & Exp Total Product Price matched----
+2025-05-30 19:50:15: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-30 19:50:16: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-30 19:50:20: INFO: ----test_TC2_verifyProductName-------
+2025-05-30 19:50:23: ERROR: ----Failed- Act & Exp product name mist-match----
+2025-05-30 19:56:50: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-30 19:56:51: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-30 19:56:56: INFO: ----test_TC2_verifyProductName-------
+2025-05-30 19:56:58: INFO: ----Passed- Act & Exp product name match----
+2025-05-30 19:58:24: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-30 19:58:25: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-30 19:58:29: INFO: ----test_TC2_verifyProductName-------
+2025-05-30 19:58:31: INFO: ----Passed- Act & Exp product name match----
+2025-05-30 20:01:43: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-30 20:01:43: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-30 20:01:48: INFO: ----test_TC2_verifyProductName-------
+2025-05-30 20:01:49: INFO: ----Passed- Act & Exp product name match----
+2025-05-30 20:09:03: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-30 20:09:03: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-30 20:09:07: INFO: ----test_TC2_verifyProductName-------
+2025-05-30 20:09:07: INFO: ----Passed- Act & Exp product name match----

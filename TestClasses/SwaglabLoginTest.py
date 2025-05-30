@@ -22,13 +22,14 @@ class Test_SwagLagLogin:
         login.clickOnLoginBtn()
 
     @pytest.mark.regression
-    def atest_TC1_loginToApp_titleValidation(self,openbrowser):
+    def test_TC1_loginToApp_titleValidation(self,openbrowser):
         self.logger.info("----test_TC1_loginToApp_titleValidation-------")
         driver=openbrowser
         self.loginToApp(driver)
 
         actTitle=driver.title
-        expTilte=ReadTD.getTestData(1,1)
+        print(actTitle)
+        expTilte=ReadTD.getTestData(9,2)
 
         if actTitle==expTilte:
             assert True
@@ -41,14 +42,14 @@ class Test_SwagLagLogin:
         driver.quit()
 
     @pytest.mark.regression
-    def btest_TC2_verifyProductName(self, openbrowser):
+    def test_TC2_verifyProductName(self, openbrowser):
         self.logger.info("----test_TC2_verifyProductName-------")
         driver = openbrowser
         self.loginToApp(driver)
 
         home=SwagLabHomePage(driver)
         actProductName=home.getBackpackProductName()
-        expProductName=ReadTD.getTestData(2,1)
+        expProductName=ReadTD.getTestData(2,2)
 
         if actProductName == expProductName:
             assert True
@@ -62,7 +63,7 @@ class Test_SwagLagLogin:
 
      #-------------------------------AssignMent No 1-verifyProductPriceTag-------------------------
     @pytest.mark.sanity
-    def ctest_TC3_verifyProductPriceTag(self,openbrowser):
+    def test_TC3_verifyProductPriceTag(self,openbrowser):
         self.logger.info("-----test_TC3_verifyProductPriceTag---------")
         driver=openbrowser
         self.loginToApp(driver)
@@ -87,7 +88,7 @@ class Test_SwagLagLogin:
 
     # -------------------------------AssignMent No 2-verifyProductSize-------------------------
     @pytest.mark.smoke
-    def dtest_TC4_verifyProductSize(self, openbrowser):
+    def test_TC4_verifyProductSize(self, openbrowser):
         self.logger.info("-----test_TC4_verifyProductSize---------")
         driver=openbrowser
         self.loginToApp(driver)
