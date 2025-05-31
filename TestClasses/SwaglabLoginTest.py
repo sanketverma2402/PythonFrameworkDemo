@@ -29,7 +29,7 @@ class Test_SwagLagLogin:
 
         actTitle=driver.title
         print(actTitle)
-        expTilte=ReadTD.getTestData(9,2)
+        expTilte=ReadTD.getTestData(9,1)
 
         if actTitle==expTilte:
             assert True
