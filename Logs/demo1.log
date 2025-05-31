@@ -210,3 +210,11 @@
 2025-05-30 20:33:28: ERROR: ----Failed- Act & Exp Title mist-match----
 2025-05-30 20:33:32: INFO: ----test_TC2_verifyProductName-------
 2025-05-30 20:33:35: INFO: ----Passed- Act & Exp product name match----
+2025-05-31 17:48:54: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-31 17:48:54: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-31 17:48:58: INFO: ----test_TC2_verifyProductName-------
+2025-05-31 17:48:58: INFO: ----Passed- Act & Exp product name match----
+2025-05-31 17:49:37: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-31 17:49:38: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-31 17:49:41: INFO: ----test_TC2_verifyProductName-------
+2025-05-31 17:49:42: INFO: ----Passed- Act & Exp product name match----
