@@ -218,3 +218,39 @@
 2025-05-31 17:49:38: ERROR: ----Failed- Act & Exp Title mist-match----
 2025-05-31 17:49:41: INFO: ----test_TC2_verifyProductName-------
 2025-05-31 17:49:42: INFO: ----Passed- Act & Exp product name match----
+2025-05-31 19:04:11: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-31 19:04:12: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-31 19:04:15: INFO: ----test_TC2_verifyProductName-------
+2025-05-31 19:04:18: INFO: ----Passed- Act & Exp product name match----
+2025-05-31 19:05:42: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-05-31 19:05:43: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-05-31 19:05:46: INFO: ----test_TC2_verifyProductName-------
+2025-05-31 19:05:47: INFO: ----Passed- Act & Exp product name match----
+2025-06-01 15:31:48: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-06-01 15:31:49: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-06-01 15:31:53: INFO: ----test_TC2_verifyProductName-------
+2025-06-01 15:31:55: INFO: ----Passed- Act & Exp product name match----
+2025-06-01 15:32:45: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-06-01 15:32:45: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-06-01 15:32:49: INFO: ----test_TC2_verifyProductName-------
+2025-06-01 15:32:52: INFO: ----Passed- Act & Exp product name match----
+2025-06-01 15:34:37: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-06-01 15:34:38: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-06-01 15:34:42: INFO: ----test_TC2_verifyProductName-------
+2025-06-01 15:34:44: INFO: ----Passed- Act & Exp product name match----
+2025-06-01 15:37:42: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-06-01 15:37:43: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-06-01 15:37:47: INFO: ----test_TC2_verifyProductName-------
+2025-06-01 15:37:49: INFO: ----Passed- Act & Exp product name match----
+2025-06-01 15:39:59: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-06-01 15:40:00: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-06-01 15:40:03: INFO: ----test_TC2_verifyProductName-------
+2025-06-01 15:40:04: INFO: ----Passed- Act & Exp product name match----
+2025-06-01 15:43:52: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-06-01 15:43:53: ERROR: ----Failed- Act & Exp Title mist-match----
+2025-06-01 15:43:57: INFO: ----test_TC2_verifyProductName-------
+2025-06-01 15:43:59: INFO: ----Passed- Act & Exp product name match----
+2025-06-01 15:48:17: INFO: ----test_TC1_loginToApp_titleValidation-------
+2025-06-01 15:48:18: INFO: ----Passed- Act & Exp Title match----
+2025-06-01 15:48:26: INFO: ----test_TC2_verifyProductName-------
+2025-06-01 15:48:26: INFO: ----Passed- Act & Exp product name match----

@@ -27,9 +27,8 @@ class Test_SwagLagLogin:
         driver=openbrowser
         self.loginToApp(driver)
 
-        actTitle=str(driver.title)
-        print(actTitle)
-        expTilte=str(ReadTD.getTestData(9,1))
+        actTitle=driver.title
+        expTilte=ReadTD.getTestData(2,4)
 
         if actTitle==expTilte:
             assert True
